@@ -1,1 +1,4 @@
-theme: minima
+remote_theme: jamigibbs/phantom
+nav_item:
+    - { url: '/', text: 'Home' }
+    - { url: '/about', text: 'About' }
